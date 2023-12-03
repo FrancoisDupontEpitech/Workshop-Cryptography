@@ -1,8 +1,7 @@
-<h1> HUB-Cryptography </h1>
 
-<h2> Cryptography Workshop in C </h2>
+<h1> Cryptography Workshop in C </h1>
 
-<h3> Description </h3>
+<h2> Description </h2>
 
 This repository contains materials and exercises for a workshop on Cryptography in C. It's aimed at providing introductory-level cryptographic exercises, including implementations of the Caesar Cipher, Substitution Cipher, and XOR Cipher.
 
