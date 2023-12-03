@@ -27,6 +27,7 @@ Each exercise is contained in its own directory. Follow these instructions to co
 Description: This exercise demonstrates the basic Caesar Cipher encryption method, where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
 ```gcc caesar_encrypt.c```
+
 ```./a.out [text_to_encrypt] [shift]```
 
 <h2> Exercice 2: Caesar Cipher Decryption </h2>
