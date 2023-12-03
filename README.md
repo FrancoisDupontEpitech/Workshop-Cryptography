@@ -10,7 +10,7 @@ This repository contains materials and exercises for a workshop on Cryptography 
 # Installation and Setup
 Clone the repository to your local machine:
 
-git clone https://github.com/FrancoisDupontEpitech/Workshop_cryptographie_en_C.git
+git clone https://github.com/FrancoisDupontEpitech/Workshop-Cryptography.git
 
 Navigate to the cloned directory:
 
