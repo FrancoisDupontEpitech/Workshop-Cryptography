@@ -6,5 +6,5 @@ Pour executer:
 Result: Xiwx
 
 
-doc : https://fr.wikipedia.org/wiki/Chiffrement_par_substitution
-https://www.geeksforgeeks.org/substitution-cipher/
+doc wikipedia : https://fr.wikipedia.org/wiki/Chiffrement_par_substitution
+doc geekforgeeks : https://www.geeksforgeeks.org/substitution-cipher/
